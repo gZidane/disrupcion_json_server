@@ -1,0 +1,40 @@
+{
+    "movements":
+    [
+        {
+            "id": "1a2s3d4f5t6h",
+            "title": "Transferencia Gabriel",
+            "amount": 1257.5,
+            "type": "gasto",
+            "date": "15/06/2023"
+        },
+        {
+            "id": "4tgt5yh",
+            "title": "Mensualidad gym",
+            "amount": 1257.5,
+            "type": "gasto",
+            "date": "14/06/2023"
+        },
+        {
+            "id": "76uyhteg",
+            "title": "Prestamo Juan",
+            "amount": 1257.5,
+            "type": "gasto",
+            "date": "12/06/2023"
+        },
+        {
+            "id": "tgfrtg",
+            "title": "Nómina",
+            "amount": 1257.5,
+            "type": "ingreso",
+            "date": "2/05/2023"
+        },
+        {
+            "id": "5gt4frd",
+            "title": "Pago prestamo",
+            "amount": 1257.5,
+            "type": "ingreso",
+            "date": "5/04/2023"
+        }
+    ]
+}
